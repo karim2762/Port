@@ -1,10 +1,10 @@
-const skills = [
-  'HTML',
+const skills = [ 
+  'HTML', 
   'CSS',
-  'JavaScript',
+  'JavaScript', 
   'React',
   'Next.js',
-  'Tailwind CSS',
+  'Tailwind CSS', 
   'Python',
   'GitHub',
 ]

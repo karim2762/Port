@@ -2,15 +2,15 @@ const projects = [
   {
     title: 'Tool-Kit',
     desc: 'A real-time education information gathering web application.',
-    live: 'https://tool-kit-eta.vercel.app/',
+    live: 'https://tool-kit-eta.vercel.app/', 
     github: 'https://github.com/karim2762/portfolio-',
-  },
+  }, 
   {
     title: 'Birthday Site',
-    desc: 'A beautiful interactive birthday wishing website with animations.',
-    live: 'https://birthday1-1.netlify.app/',
-    github: 'https://github.com/karim2762/Birthdaydemo',
-  },
+    desc: 'A beautiful interactive birthday wishing website.', 
+    live: 'https://birthday1-1.netlify.app/', 
+    github: 'https://github.com/karim2762/Birthdaydemo', 
+  }, 
 ]
 
 export default function Projects() {
